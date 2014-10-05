@@ -4,3 +4,16 @@ package: Custom
 type: theme
 version: 1.0
 core: 8.x
+
+# Stylesheets
+stylesheets:
+  all:
+    - css/global.css
+
+# Regions
+regions:
+  header: 'Header'
+  content: 'Content'
+  sidebar: 'Sidebar'
+  footer: 'Footer'
+  overlay: 'Overlay'
