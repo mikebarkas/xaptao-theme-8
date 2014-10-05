@@ -17,3 +17,5 @@ regions:
   sidebar: 'Sidebar'
   footer: 'Footer'
   overlay: 'Overlay'
+
+  # Scripts
